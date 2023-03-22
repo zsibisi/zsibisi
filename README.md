@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Zinhle short for Z, a web development student who is passionate about creating engaging and dynamic web applications. I'm currently learning the latest web technologies and frameworks to create responsive, user-friendly websites that provide a seamless user experience.
+I'm Z, a web development student who is passionate about creating engaging and dynamic web applications. I'm currently learning the latest web technologies and frameworks to create responsive, user-friendly websites that provide a seamless user experience.
 
 My Skills
 - HTML/CSS
